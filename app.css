@@ -1,0 +1,20 @@
+.parent {
+  background: green;
+  color: white;
+  width: 100%;
+}
+
+.child {
+  background: blue;
+  color: white;
+  margin: 10px;
+  width: 29%;
+  display: inline-block;
+  text-align: center;
+}
+
+.child1 {
+  background: red;
+  color: white;
+  margin: 10px;
+}
